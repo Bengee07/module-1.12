@@ -10,7 +10,7 @@ Technical knowledge is vast. Timebox yourself for 3 hours to work on the followi
 
 ### Readings
 
-- add links
+- [AWS - Disaster Recovery](https://aws.amazon.com/what-is/disaster-recovery/)
 
 ### Helpful Links (References)
 
