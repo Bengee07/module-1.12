@@ -21,7 +21,7 @@ The **purpose** of a **disaster recovery** is to comprehensively explain the con
 
 Disaster recovery offers organizations a means of salvaging their operational capacity and can save them from devastating losses that could lead to a complete shutdown. By investing in disaster recovery, organizations can build more resilience and a stronger competitive advantage. 
 
-Here are some reasons to invest in disaster recovery:  
+Here are some reasons to why company or organization need to have disaster recovery plan:  
 
 - **Prevent Revenue Loss:** As more businesses rely on technology to operate, IT infrastructure holds tremendous value. Without an operational IT infrastructure, businesses can suffer significant revenue losses.
 - **Enhance resilience:** Committing to disaster recovery can be costly, however, it improves an organization’s ability to quickly return to business as usual after a disaster. Through regular DR testing, organizations developed the resiliency they need to limit the effects of disasters on their operations.
