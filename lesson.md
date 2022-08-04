@@ -4,6 +4,11 @@
 
 Write about any preparations needed for the lesson, such as tools, installations, prior-knowledge, etcs.
 
+### Self Study Check In
+
+What will you do if there is an earthquake?
+
+
 ### Lesson Overview
 
 IT infrastructure has become a critical component of today’s business world. As more organizations rely on computing power, storage, and applications, being without these mission-essential assets is an almost unfathomable thought, underpinning the importance of investing in disaster recovery. This glossary explores what disaster recovery is, why it matters, and what goes into developing an effective Disaster Recovery Plan.
