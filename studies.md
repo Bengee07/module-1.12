@@ -19,5 +19,7 @@ Technical knowledge is vast. Timebox yourself for 3 hours to work on the followi
 - 
 
 ### Example of Case 
+
+- [IBM - Example Disaster Recovery Plan](https://www.ibm.com/docs/en/i/7.1?topic=system-example-disaster-recovery-plan)
 - [Walmart - Disaster Preparedness & Response](https://corporate.walmart.com/esgreport/social/disaster-preparedness-response)
 - [Fedex - Disaster Recovery and Emergency Shipping Services](https://customcritical.fedex.com/us/services/market-industry/disaster.shtml)
