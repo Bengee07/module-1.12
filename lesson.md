@@ -17,7 +17,8 @@ IT infrastructure has become a critical component of today’s business world. A
 
 ## Part 1 - Summary Disaster Recovery
 
-![image](https://user-images.githubusercontent.com/106639884/182758704-a12a06f3-6e10-4e57-8678-1d68485dc1f7.png)
+
+<img src="https://user-images.githubusercontent.com/106639884/182769772-4ae3e630-ebaf-4e5d-8c6d-ebc92f538083.png" width="850px"/>
 
 
 A Disaster Recovery, Disaster Recovery Plan (DRP), Disaster Recovery Implementation Plan, or IT Disaster Recovery is a policy and/or process that is designed to assist an organization in executing recovery processes in response to a disaster to protect business IT infrastructure and more generally promote recovery. Disasters take many shapes and forms and can include cyber-attacks, natural disasters, theft or sabotage, power failures, IT network failures, events affecting an organization’s reputation, and also outbreaks of diseases or infections that impact operations.
@@ -42,7 +43,8 @@ Here are some reasons to why company or organization need to have disaster recov
 
 ## Part 2 - Insert Summary
 
-Insert Instructions
+![image](https://user-images.githubusercontent.com/106639884/182758704-a12a06f3-6e10-4e57-8678-1d68485dc1f7.png)
+
 
 ---
 
