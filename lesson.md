@@ -51,9 +51,40 @@ Here are some reasons to why company or organization need to have disaster recov
 
 ---
 
-## Part 2 - Insert Summary
+## Part 2 - Preparation for Disaster Recovery
 
 ![image](https://user-images.githubusercontent.com/106639884/182758704-a12a06f3-6e10-4e57-8678-1d68485dc1f7.png)
+
+**1. Know Your Threats**
+
+Learn about the history of your business, the industry and the region, and map out the threats you are most likely to face. These should include natural disasters, geopolitical events like wars or civil unrest, failure to critical equipment like servers, Internet connections or software, and cyber attacks that are most likely to affect your type of business.
+
+Ensure your disaster recovery plan is effective against all, or at least the most likely or most significant threats. If necessary, develop separate DR plans or separate sections within your DR plan for specific types of disasters.
+
+
+**2. Know Your Assets**
+
+It’s important to be comprehensive. Get your team together and make a big list of all the assets that are important for the day-to-day operations of your business. In the IT sphere this includes network equipment, servers, workstations, software, cloud services, mobile devices, and more. Once you have your list organize it into:
+
+- Critical assets your business cannot operate without – for example, an email server
+- Important assets that can seriously hamper some activities – for example, a projector used for presentations
+- Other assets that will not have a major effect on the business – for example, a recreational system used by employees on their lunch break
+
+
+
+**3. Define Your RTO and RPO**
+
+Define your Recovery Time Objective (RTO) for critical assets. What period of downtime can you sustain? For example, a high traffic eCommerce site sustains major financial damage for every minute of downtime. An accounting firm may be able to sustain a day or two of downtime and resume normal operations, provided there is no data loss. Build a process and obtain technological means that can help you bring operations back online within the RTO.
+
+The term recovery point objective (RPO) refers to the maximum age of files the organization must recover from backup storage to resume normal operations after a disaster occurs. Organizations use RPO to determine the minimum frequency of backups. For example, a four-hour RPO requires backing up at least every four hours.
+
+
+**4. Set Up Disaster Recovery Sites**
+
+
+**5. Test Backups and Restoration of Services**
+
+
 
 
 ---
