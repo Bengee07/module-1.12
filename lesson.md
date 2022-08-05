@@ -8,6 +8,16 @@ Write about any preparations needed for the lesson, such as tools, installations
 
 What will you do if there is an earthquake?
 
+``` Step by step on what will you do ```
+
+What will you do if you accidentally drop your production database?
+
+``` Step by step on what will you do ```
+
+What will you do if ....
+
+``` Step by step on what will you do ```
+
 
 ### Lesson Overview
 
