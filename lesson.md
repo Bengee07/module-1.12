@@ -109,6 +109,9 @@ Contain all the elements of a cold site while adding to them additional elements
 A fully functional backup site that already has important data mirrored to it. This is the ideal disaster recovery site but can be challenging to attain. 
 
 
+<img src="https://user-images.githubusercontent.com/106639884/183356829-4534866f-6339-49d8-9603-ecfb11c56bae.png" width="500px"/>
+
+
 **5. Test Backups and Restoration of Services**
 
 Just like business systems can fail in a disaster, so can backups. There are many horror stories of organizations that had a backup system in place, but discovered too late that backups were not actually working properly. A configuration problem, software error or equipment failure can render your backups useless, and you may never know it unless you test them.
