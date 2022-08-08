@@ -123,4 +123,19 @@ An inseparable part of any disaster recovery plan is to test that data is being 
 
 ## Part 3 - Build Your Disaster Recovery Plan
 
-Insert Instructions
+Here are the key of the process of creating a disaster recovery plan:
+
+1. Risk Assessment
+2. Evaluate Critical Needs
+3. Set Disaster Recovery Plan Objectives
+4. Collect Data and Create the Written Document
+5. Test and Revise
+
+
+## Part 4 - Activity - Build Your Own Disaster Recovery Plan
+
+```
+
+Work with your group to devine your own business and your own recovery plan based on discussed threat that might be happen to your business
+
+```
