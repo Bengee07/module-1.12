@@ -83,6 +83,10 @@ It’s important to be comprehensive. Get your team together and make a big list
 
 **3. Define Your RTO and RPO**
 
+
+<img src="https://user-images.githubusercontent.com/106639884/183356154-6db65504-83ca-412e-b76b-ca9b6a3a7871.png" width="800px"/>
+
+
 Define your Recovery Time Objective (RTO) for critical assets. What period of downtime can you sustain? For example, a high traffic eCommerce site sustains major financial damage for every minute of downtime. An accounting firm may be able to sustain a day or two of downtime and resume normal operations, provided there is no data loss. Build a process and obtain technological means that can help you bring operations back online within the RTO.
 
 The term recovery point objective (RPO) refers to the maximum age of files the organization must recover from backup storage to resume normal operations after a disaster occurs. Organizations use RPO to determine the minimum frequency of backups. For example, a four-hour RPO requires backing up at least every four hours.
