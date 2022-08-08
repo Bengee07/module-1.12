@@ -130,3 +130,13 @@ Work with your group to devine your own business and your own recovery plan
 based on discussed threat that might be happen to your business
 
 ```
+
+```
+
+1. Define your business
+2. Define your assets
+3. Define your possible threat
+4. Define Your RTO and RPO
+
+
+```
