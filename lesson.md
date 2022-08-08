@@ -53,9 +53,13 @@ Here are some reasons to why company or organization need to have disaster recov
 
 ## Part 2 - Preparation for Disaster Recovery
 
-![image](https://user-images.githubusercontent.com/106639884/182758704-a12a06f3-6e10-4e57-8678-1d68485dc1f7.png)
+<img src="https://user-images.githubusercontent.com/106639884/182758704-a12a06f3-6e10-4e57-8678-1d68485dc1f7.png" width="500px"/>
+
 
 **1. Know Your Threats**
+
+<img src="https://user-images.githubusercontent.com/106639884/183355867-0d465c59-edd9-47aa-8476-77286be0e7ec.png" width="500px"/>
+
 
 Learn about the history of your business, the industry and the region, and map out the threats you are most likely to face. These should include natural disasters, geopolitical events like wars or civil unrest, failure to critical equipment like servers, Internet connections or software, and cyber attacks that are most likely to affect your type of business.
 
@@ -63,6 +67,10 @@ Ensure your disaster recovery plan is effective against all, or at least the mos
 
 
 **2. Know Your Assets**
+
+
+<img src="https://user-images.githubusercontent.com/106639884/183355607-708b065e-1ee7-479a-b79f-35d2dc8f0d86.png" width="500px"/>
+
 
 It’s important to be comprehensive. Get your team together and make a big list of all the assets that are important for the day-to-day operations of your business. In the IT sphere this includes network equipment, servers, workstations, software, cloud services, mobile devices, and more. Once you have your list organize it into:
 
