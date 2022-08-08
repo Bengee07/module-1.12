@@ -81,14 +81,30 @@ The term recovery point objective (RPO) refers to the maximum age of files the o
 
 **4. Set Up Disaster Recovery Sites**
 
+ 
+1. Cold Computing Sites
+
+The most simplistic type of disaster recovery site. A cold site consists of elements to provide power and networking capability as well as cooling. It does not include other hardware elements such as servers and storage. The use of a cold site is very limiting to a business since before it can be used, backup data along with some additional hardware must be sent to the site and installed. This will impede workflow.
+
+
+2. Warm Computing Sites
+
+Contain all the elements of a cold site while adding to them additional elements including storage hardware such as tape or disk drives along with both servers and switches. Warm sites are "ready to go" in one sense, but they still need to have data transported to them for use in recovery should a disaster occur.
+
+3. Hot Computing Sites
+
+A fully functional backup site that already has important data mirrored to it. This is the ideal disaster recovery site but can be challenging to attain. 
+
 
 **5. Test Backups and Restoration of Services**
 
+Just like business systems can fail in a disaster, so can backups. There are many horror stories of organizations that had a backup system in place, but discovered too late that backups were not actually working properly. A configuration problem, software error or equipment failure can render your backups useless, and you may never know it unless you test them.
 
+An inseparable part of any disaster recovery plan is to test that data is being replicated correctly to the target location. It’s just as important to test that it’s possible to restore data back to your production site. These tests must be conducted once, when you set up your disaster recovery apparatus, and repeated periodically to ensure the setup is still working.
 
 
 ---
 
-## Part 3 - Insert Summary
+## Part 3 - Build Your Disaster Recovery Plan
 
 Insert Instructions
