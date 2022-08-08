@@ -54,7 +54,7 @@ Here are some reasons to why company or organization need to have disaster recov
 
 ## Part 2 - Preparation for Disaster Recovery
 
-<img src="https://user-images.githubusercontent.com/106639884/182758704-a12a06f3-6e10-4e57-8678-1d68485dc1f7.png" width="500px"/>
+<img src="https://user-images.githubusercontent.com/106639884/182758704-a12a06f3-6e10-4e57-8678-1d68485dc1f7.png" width="850px"/>
 
 
 **1. Know Your Threats**
