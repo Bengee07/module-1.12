@@ -62,7 +62,9 @@ Here are some reasons to why company or organization need to have disaster recov
 <img src="https://user-images.githubusercontent.com/106639884/183355867-0d465c59-edd9-47aa-8476-77286be0e7ec.png" width="500px"/>
 
 
-Learn about the history of your business, the industry and the region, and map out the threats you are most likely to face. These should include natural disasters, geopolitical events like wars or civil unrest, failure to critical equipment like servers, Internet connections or software, and cyber attacks that are most likely to affect your type of business.
+Learn about the history of your business, the industry and the region, and map out the threats you are most likely to face. 
+
+Threats include natural disasters, geopolitical events like wars or civil unrest, failure to critical equipment like servers, Internet connection or software, and cyber attacks that are most likely to affect your type of business.
 
 Ensure your disaster recovery plan is effective against all, or at least the most likely or most significant threats. If necessary, develop separate DR plans or separate sections within your DR plan for specific types of disasters.
 
